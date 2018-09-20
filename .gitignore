@@ -5,3 +5,4 @@ target
 project/target
 .stack-work
 *.cabal
+.DS_Store
